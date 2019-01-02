@@ -1,0 +1,1 @@
+# menentukan-suatu-bilangan-yang-habis-di-bagi-5-dan-3
